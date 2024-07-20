@@ -1,5 +1,5 @@
 # Ez3D
-## 3D printed parts for a rocket that flies on A thrum C motors
+## 3D printed parts for a rocket that flies on A thru C motors
 
 # Parts List:
 1. Ez3D Fin Can

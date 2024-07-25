@@ -6,14 +6,15 @@
 2. Ez3D Nose Cone
 3. Ez3D Motor Retention Cap
    - Print out the multiple sizes
-   - Accounts for different printing tolerances and post flight shrinking 
+   - Accounts for different printing tolerances and post flight shrinking
+4. BT50 Launch Lug 
 5. Six (6) inches of BT-50 type body tube (i.e. 24mm)
    - A standard 18 inch tube makes three kits
    - 3D printable tube cutting guide included in repository files
 6. Three (3) feet of Kevlar string for Recovery Harness
    - Flight tested on 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
-8. Twelve (12) inches of streamer (Optional)
-9. Two (2) inches of BT-20 type body tube (13mm) (Optional)
+7. Twelve (12) inches of streamer (Optional)
+8. Two (2) inches of BT-20 type body tube (13mm) (Optional)
     - This tube serves as an Insulator between the motor and Fin Can
     - Use of Insulator helps reduce Fin Can heat shrink after each launch
   
@@ -21,15 +22,18 @@
 
 # Assembly: 
 
-**NOTE: Individual printers and filiment have different tolerances** <br />
-**- Fit check items before assembly and sand to fit if requried**
-     
 1. Tie Recovery Harness to hole in Fin Can
 2. Thread Recovery Harness thru Body Tube
 3. Slide Body Tube onto top of Fin Can
 4. Tape Body Tube to Fin Can - avoid blocking integrated launch lug
 5. Tie loose end of Recovery Harness to Nose Cone
 6. Tie streamer to Recovery Hanress near top of Nose Cone
+
+**NOTE: Individual printers and filiment have different tolerances** <br />
+**- Fit check items before assembly - if not, there are three options:**
+- Remove some material by sanding
+- If your printer has a scaling feature, use it to adjust the part size
+- Change the dimensions in the FreeCAD file
 
 
 # Launch Preperation:

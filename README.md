@@ -67,6 +67,6 @@ C6-5         = 950 ft (Optimum delay = 5.3 s)
 - If existing motor retainer caps no longer work, friction or tape may suffice for retention
 - PLA filiment most suspectable to shrinking. Others may last longer.
 
-## Entire kit fits in a sandwich ziplock bag!
+## Entire kit fits in a gallon sized ziplock bag!
 
 

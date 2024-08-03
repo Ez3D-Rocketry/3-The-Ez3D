@@ -7,17 +7,19 @@
 3. Ez3D Motor Retention Cap
    - Print out the multiple sizes
    - Accounts for different printing tolerances and post flight shrinking
-4. BT50 Launch Lug 
-5. Six (6) inches of BT-50 type body tube (i.e. 24mm)
-   - A standard 18 inch tube makes three kits
+4. BT50 3D printed Launch Lug assembly
+5. Nine (9) inches of BT-50 type body tube (i.e. 24mm)
+   - A standard 18 inch tube makes two kits
    - 3D printable tube cutting guide included in repository files
 6. Three (3) feet of Kevlar string for Recovery Harness
    - Flight tested on 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
-7. Twelve (12) inches of streamer (Optional)
+7. Twelve (12) inch parachute (Streamer can also be used but it descends fast)
 8. Two (2) inches of BT-20 type body tube (13mm) (Optional)
     - This tube serves as an Insulator between the motor and Fin Can
     - Use of Insulator helps reduce Fin Can heat shrink after each launch
-  
+9. Tape
+
+![IMG_8636](https://github.com/user-attachments/assets/dc20ea92-94a7-4a38-99cd-30c83861a827)
 
 
 # Assembly: 
@@ -26,19 +28,22 @@
 2. Thread Recovery Harness thru Body Tube
 3. Slide Body Tube onto top of Fin Can
 4. Tape Body Tube to Fin Can - avoid blocking integrated launch lug
-5. Tie loose end of Recovery Harness to Nose Cone
-6. Tie streamer to Recovery Hanress near top of Nose Cone
+5. Tape Launch Lug Assembly midway up Body Tube
+6. Tie loose end of Recovery Harness to Nose Cone
+7. Attach parachute to Recovery Harness
 
-**NOTE: Individual printers and filiment have different tolerances** <br />
+**NOTE: Individual printers and filament have different tolerances** <br />
 **- Fit check items before assembly - if not, there are three options:**
 - Remove some material by sanding
 - If your printer has a scaling feature, use it to adjust the part size
 - Change the dimensions in the FreeCAD file
+  
+![IMG_8635](https://github.com/user-attachments/assets/fbd945e9-4d34-4a69-b7a3-35c2a349ed12)
 
 
-# Launch Preperation:
+# Launch Preparation:
 1. Insert 1 or 2 squares of recovery wadding into Body Tube
-2. Load Recovery Harness and Streamer into Body Tube
+2. Load Recovery Harness and Parachute into Body Tube
 3. Place Nose Cone on top of Body Tube - ensure slightly snug fit
 4. Slide BT-20 insulator into Fin Can before motor (Optional)
 5. Load motor into Fin Can
@@ -65,8 +70,10 @@ C6-5         = 950 ft (Optimum delay = 5.3 s)
 - Removal of motor may be difficult or impossible after one or several flights
 - The smaller motor retainer cap may fit better after the first flight
 - If existing motor retainer caps no longer work, friction or tape may suffice for retention
-- PLA filiment most suspectable to shrinking. Others may last longer.
+- PLA filament most suspectable to shrinking. Others may last longer.
 
 ## Entire kit fits in a gallon sized ziplock bag!
+![IMG_8637](https://github.com/user-attachments/assets/406ba2f3-c47c-44f6-ac67-e327e260cc9e)
+
 
 

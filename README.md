@@ -2,19 +2,18 @@
 ## 3D printed parts for a rocket that flies on A thru C motors
 
 # Parts List:
-1. Ez3D Fin Can
-2. Ez3D Nose Cone
-3. Ez3D Motor Retention Cap
-   - Print out the multiple sizes
-   - Accounts for different printing tolerances and post flight shrinking
+1. Ez3D-1850-4 Fin Can
+2. BT50 Nose Cone
+3. 18mm Retainer Cap
+   - Print out the multiple sizes (No scaling, +3%, +5%), These account for different printing tolerances and post flight shrinking.
 4. BT50 3D printed Launch Lug assembly
-5. Nine (9) inches of BT-50 type body tube (i.e. 24mm)
+5. Nine (9) inches of BT-50 type body tube
    - A standard 18 inch tube makes two kits
    - 3D printable tube cutting guide included in repository files
 6. Three (3) feet of Kevlar string for Recovery Harness
    - Flight tested on 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
 7. Twelve (12) inch parachute (Streamer can also be used but it descends fast)
-8. Two (2) inches of BT-20 type body tube (13mm) (Optional)
+8. Two (2) inches of BT-20 type body tube (Optional)
     - This tube serves as an Insulator between the motor and Fin Can
     - Use of Insulator helps reduce Fin Can heat shrink after each launch
 9. Tape
@@ -33,10 +32,11 @@
 7. Attach parachute to Recovery Harness
 
 **NOTE: Individual printers and filament have different tolerances** <br />
-**- Fit check items before assembly - if not, there are three options:**
-- Remove some material by sanding
+**- Fit check items before assembly. Options to adjust if necessary:**
+- Add tape to increase diameter
+- Remove material by sanding
 - If your printer has a scaling feature, use it to adjust the part size
-- Change the dimensions in the FreeCAD file
+- Change the dimensions in the FreeCAD file available
   
 ![IMG_8635](https://github.com/user-attachments/assets/fbd945e9-4d34-4a69-b7a3-35c2a349ed12)
 
@@ -58,11 +58,11 @@
 
 
 
-A8-3         = 175 ft  (Optimum delay = 2.9 s)
+A8-3         = ~150 ft  (Optimum delay = 2.9 s)
 
-B6-4         = 450 ft (Optimum delay = 4.3 s)
+B6-4         = ~300 ft (Optimum delay = 4.3 s)
 
-C6-5         = 950 ft (Optimum delay = 5.3 s)
+C6-5         = ~600 ft (Optimum delay = 5.3 s)
 
 
 # IMPORTANT POST FLIGHT NOTES:
